@@ -26,6 +26,7 @@ domain: cperry26.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://cperry26.github.io
 github_username:  CPerry26
+linkedin_username: codysperry
 
 # Build settings
 theme: minima

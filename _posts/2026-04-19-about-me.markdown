@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "whoami"
+date:   2026-04-19 03:00:00 -0500
+author: Cody Perry
+categories: background
+tags: about-me, background
+---
+
+I have published a couple of blog posts up to now that come from work, and I wanted to expand a bit more on my about [page](https://cperry26.github.io/about).
+
+# whoami
+My name, of course, is Cody and welcome to Rand() Thought. I know, a great bit of programming humor for a blog name (and post title), please hold your laughs. By day, I'm a software engineer who works on web applications. By night, I spend my time with too many hobbies and not enough free time. Namely: reading, video games, sports, and what I call curiosity. Fortunately or unfortunately (I will let you decide), I cannot help myself and have an insatiable need to keep learning. That leads me down numerous rabbit holes I somehow manage to get myself out of.
+
+As I have gotten older, I have found my personal interests skewing more towards the lower level languages and problems. Think C++ and game development, computer graphics, servers, and more. To be honest though, I have always found this layer intimidating. I would look at idiomatic C++ code, or listen to proficient developers and feel a plethora of imposter syndrome. While that feeling exists for everyone, I have always felt better at and more comfortable in higher level languages like Java/TypeScript/JavaScript/Ruby.
+
+## Purpose
+I will not be able to tell you whether or not this blog will be a worthwhile read or follow. My goal is for it to be a place for me to express my thoughts on topics I find personally interesting, as well as to explore stepping out of my comfort zone. As I stated above, my interests are changing, and I think it would be valuable to document my journey in fighting my imposter syndrome, and growing as an engineer.
+
+## Direction
+I believe a chunk of the early content here will be about a few main topics. First, my foray into open source. I have always wanted to become an open source contributor. It is not only such a pivotal part of how we build software, but it is also an opportunity to improve skills, make connections, and pay back the community. Similar to what I outlined above, my fear or anxiety has been a major blocker for me doing so, as I have been fighting that feeling of "not being good enough".
+
+Second, I have begun relearning C++. I want to overcome that trepidation of lower level software, and challenge myself to grow as an egineer. This will expose me to tons of new problems, and give me a better foundation for my other interests.
+
+Lastly, exploring those other interests mentioned above. For example, I recently built a small 2D side scrolling game called [Dap Dash](https://github.com/CPerry26/dap-dash) using [Raylib](https://www.raylib.com/). I would not call the project impressive, or the nicest C++ code, but I learned a lot and had a blast making it. I think there will be more in the same vein here.
+
+## Closing
+This blog will naturally change over time as I do. I hope it is a place where I can collect my thoughts, go on some rants, and be honest in my journey to become a better and more well rounded engineer. Along the way, I hope to make genuine connections, and find the joy in my personal interests. If that sounds interesting, I would be happy to connect. If not, do not worry, I promise not to take it personal!
+
+# Connect
+You can find me on [GitHub](https://github.com/CPerry26), [LinkedIn](https://linkedin.com/codysperry/), and [Mastadon](https://techhub.social/@codyp). I also use Discord, but you are only getting that if you are special!
