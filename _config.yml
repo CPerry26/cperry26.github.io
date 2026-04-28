@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Rand() Thought
+title: Rand() Thought1
 email: codysperry@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
   The random ramblings of a passionate and curious software developer. I write about whatever floats my boat, but will lean towards programming and technology. All views are my own and do not reflect the opinions of any company I have worked for or am currently working for.
